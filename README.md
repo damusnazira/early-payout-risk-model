@@ -184,6 +184,6 @@ These results help evaluate whether early payout promotions are financially sust
 
 ## Disclaimer
 
-This project is a generic analytical exercise using simultaed data.
+This project is a generic analytical exercise using simulated data.
 
 It does not represent any specific sportsbook or proprietary dataset.
