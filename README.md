@@ -280,6 +280,8 @@ Estimated incremental betting volume required to offset promotion costs.
 # Disclaimer
 
 This project is a **generic analytical exercise using simulated data**.
+It does not represent any specific sportsbook, company, or proprietary dataset.
+
 ## Example Outputs
 
 ### Early Payout Cost Distribution
@@ -290,5 +292,4 @@ This project is a **generic analytical exercise using simulated data**.
 
 ![Break-even Turnover](reports/figures/breakeven_vs_hold.png)
 
-It does not represent any specific sportsbook, company, or proprietary dataset.
 
