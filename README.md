@@ -286,10 +286,10 @@ It does not represent any specific sportsbook, company, or proprietary dataset.
 
 ### Early Payout Cost Distribution
 
-![Early Payout Cost](reports/figures/ep_cost_distribution.png)
+![Early Payout Cost](ep_cost_distribution.png)
 
 ### Break-even Incremental Turnover
 
-![Break-even Turnover](reports/figures/breakeven_vs_hold.png)
+![Break-even Turnover](breakeven_vs_hold.png)
 
 
