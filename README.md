@@ -276,11 +276,19 @@ Monte Carlo simulation of the cost distribution of the promotion.
 Estimated incremental betting volume required to offset promotion costs.
 
 ---
+## How to Run the Project
 
-# Disclaimer
+1. Clone the repository
 
-This project is a **generic analytical exercise using simulated data**.
-It does not represent any specific sportsbook, company, or proprietary dataset.
+git clone https://github.com/damusnazira/early-payout-risk-model.git
+
+2. Install dependencies
+
+pip install -r requirements.txt
+
+3. Run the main script
+
+python main_script.py
 
 ## Example Outputs
 
@@ -291,5 +299,10 @@ It does not represent any specific sportsbook, company, or proprietary dataset.
 ### Break-even Incremental Turnover
 
 ![Break-even Turnover](breakeven_vs_hold.png)
+
+# Disclaimer
+
+This project is a **generic analytical exercise using simulated data**.
+It does not represent any specific sportsbook, company, or proprietary dataset.
 
 
